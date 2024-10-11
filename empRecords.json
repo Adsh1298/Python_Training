@@ -1,0 +1,14 @@
+[
+        {
+                "empId": 123,
+                "empName": "Phaniraj",
+                "empAddress": "Banglore",
+                "salalry": 45000
+        },
+        {
+                "empId": 124,
+                "empName": "Adarsh",
+                "empAddress": "Delhi",
+                "salalry": 48000
+        }
+]
